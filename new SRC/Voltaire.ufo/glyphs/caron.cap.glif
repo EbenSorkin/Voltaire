@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.cap" format="1">
+  <advance width="776"/>
+  <outline>
+    <contour>
+      <point x="704" y="1882" type="line"/>
+      <point x="628" y="2020" type="line"/>
+      <point x="388" y="1899" type="line"/>
+      <point x="148" y="2020" type="line"/>
+      <point x="72" y="1882" type="line"/>
+      <point x="388" y="1719" type="line"/>
+    </contour>
+    <contour>
+      <point x="388" y="1700" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

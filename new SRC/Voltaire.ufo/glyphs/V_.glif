@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="1">
+  <advance width="954"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="491" y="-30" type="line"/>
+      <point x="949" y="1593" type="line"/>
+      <point x="745" y="1593" type="line"/>
+      <point x="521" y="741" type="line"/>
+      <point x="476" y="500" type="line"/>
+      <point x="433" y="741" type="line"/>
+      <point x="209" y="1593" type="line"/>
+      <point x="5" y="1593" type="line"/>
+      <point x="463" y="-30" type="line"/>
+    </contour>
+    <contour>
+      <point x="477" y="1700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="477" y="-170" type="move" name="btm"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>476</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

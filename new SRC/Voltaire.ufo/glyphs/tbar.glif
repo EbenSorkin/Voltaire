@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="1">
+  <advance width="633"/>
+  <unicode hex="0167"/>
+  <outline>
+    <contour>
+      <point x="525" y="513" type="line"/>
+      <point x="525" y="681" type="line"/>
+      <point x="98" y="681" type="line"/>
+      <point x="98" y="513" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+</glyph>
