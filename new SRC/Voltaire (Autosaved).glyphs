@@ -10899,6 +10899,7 @@ width = 850;
 }
 );
 unicode = 1EAF;
+changeCount = 1;
 },
 {
 color = 0;
@@ -10956,6 +10957,7 @@ width = 850;
 }
 );
 unicode = 1EB1;
+changeCount = 1;
 },
 {
 color = 0;
@@ -11014,6 +11016,7 @@ width = 850;
 }
 );
 unicode = 1EB5;
+changeCount = 1;
 },
 {
 glyphname = acircumflex;
@@ -11095,6 +11098,7 @@ width = 850;
 }
 );
 unicode = 1EA5;
+changeCount = 1;
 },
 {
 color = 4;
@@ -11135,6 +11139,7 @@ width = 850;
 }
 );
 unicode = 1EAD;
+changeCount = 1;
 },
 {
 color = 0;
@@ -11177,6 +11182,7 @@ width = 850;
 }
 );
 unicode = 1EA7;
+changeCount = 1;
 },
 {
 color = 0;
@@ -11234,6 +11240,7 @@ width = 850;
 }
 );
 unicode = 1EAB;
+changeCount = 1;
 },
 {
 color = 0;
@@ -11321,6 +11328,7 @@ width = 850;
 }
 );
 unicode = 1EA1;
+changeCount = 1;
 },
 {
 glyphname = agrave;
@@ -16697,6 +16705,7 @@ width = 913;
 }
 );
 unicode = 1E45;
+changeCount = 1;
 },
 {
 color = 0;
@@ -16731,6 +16740,7 @@ width = 913;
 }
 );
 unicode = 1E47;
+changeCount = 1;
 },
 {
 glyphname = eng;
@@ -17220,6 +17230,7 @@ width = 985;
 }
 );
 unicode = 1ED1;
+changeCount = 1;
 },
 {
 color = 0;
@@ -17278,6 +17289,7 @@ width = 985;
 }
 );
 unicode = 1ED3;
+changeCount = 1;
 },
 {
 color = 0;
@@ -17336,6 +17348,7 @@ width = 985;
 }
 );
 unicode = 1ED7;
+changeCount = 1;
 },
 {
 color = 0;
@@ -17433,6 +17446,7 @@ width = 985;
 }
 );
 unicode = 022B;
+changeCount = 1;
 },
 {
 color = 0;
@@ -17475,6 +17489,7 @@ width = 985;
 }
 );
 unicode = 0231;
+changeCount = 1;
 },
 {
 color = 4;
@@ -17509,6 +17524,7 @@ width = 985;
 }
 );
 unicode = 1ECD;
+changeCount = 1;
 },
 {
 glyphname = ograve;
@@ -17788,6 +17804,7 @@ width = 985;
 }
 );
 unicode = 01EB;
+changeCount = 1;
 },
 {
 glyphname = oslash;
@@ -17886,6 +17903,7 @@ width = 950;
 }
 );
 unicode = 01FF;
+changeCount = 1;
 },
 {
 glyphname = otilde;
@@ -17966,6 +17984,7 @@ width = 985;
 }
 );
 unicode = 022D;
+changeCount = 1;
 },
 {
 glyphname = oe;
@@ -32784,6 +32803,7 @@ width = 2108;
 }
 );
 unicode = 2116;
+changeCount = 1;
 },
 {
 color = 4;
